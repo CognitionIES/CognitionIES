@@ -54,7 +54,7 @@ Includes an updated design system, reusable UI components, and automated SEO for
 This GitHub org is maintained internally at **CognitionIES**.  
 Each project here started as a small fix or automation to solve real problems — helping different teams work faster, cleaner, and with less manual effort.  
 
-*Most projects are internal, but we’re open to collaborations — reach out if you’d like to build with us.*
+***Most projects are internal, but we’re open to collaborations, reach out if you’d like to build with us.***
 ---
 
 ## Connect  
