@@ -1,4 +1,4 @@
-# CognitionIES Engineering  
+# CognitionIES    
 
 I'm a developer at **CognitionIES**, working on small but useful tools to remove everyday hurdles, automate repetitive work, and make things run a bit smoother across teams.  
 
@@ -29,15 +29,15 @@ This tool identifies missing pairs and highlights which extensions or files are 
 
 - Supports `.csv`, `.xlsx`, and `.xls` formats  
 - Highlights missing or unmatched file pairs  
-- Runs fully in-browser — no setup, no install  
+- Runs fully in-browser, no setup, no install  
 
 **TypeScript • File Parsing • DOM**
 
 ---
 
 ### [website-2.0](https://github.com/CognitionIES/website-2.0)  
-Corporate website rebuilt with modular design, optimized performance, and maintainability in mind.  
-Built using a clean Next.js structure with reusable components and automated SEO setup.  
+Company's website showcasing our services, past projects, team values, and mission.
+Includes an updated design system, reusable UI components, and automated SEO for better visibility
 **TypeScript • Next.js • Tailwind CSS • Framer Motion**
 
 ---
@@ -54,12 +54,13 @@ Built using a clean Next.js structure with reusable components and automated SEO
 This GitHub org is maintained internally at **CognitionIES**.  
 Each project here started as a small fix or automation to solve real problems — helping different teams work faster, cleaner, and with less manual effort.  
 
+*Most projects are internal, but we’re open to collaborations — reach out if you’d like to build with us.*
 ---
 
 ## Connect  
 - **Website**: [cognitionies.com](https://cognitionies.com)  
-- **Email**: engineering@cognitionies.com  
-- **LinkedIn**: [CognitionIES](https://linkedin.com/company/cognitionies)  
+- **Email**: info@cognitionies.com  
+- **LinkedIn**: [CognitionIES](https://in.linkedin.com/company/cognition-ies)  
 
 ---
 
